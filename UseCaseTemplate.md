@@ -1,9 +1,10 @@
 # 1. Description
 ## 1.1 Purpose
-## 1.2 Actors
-## 1.3 Trigger
-## 1.4 Precondition
-## 1.5 Postcondition
+## 1.2 Synopsis
+## 1.3 Actors
+## 1.4 Trigger
+## 1.5 Precondition
+## 1.6 Postcondition
 
 # 2. Flows
 ## 2.1 Main Flow
